@@ -1,0 +1,1001 @@
+;comp_id;comp_name;url;is_tech;frac_male;names
+0;271;Airbnb;https://www.ycombinator.com/companies/271;True;1,0;Nathan, Brian, Joe
+1;531;DoorDash;https://www.ycombinator.com/companies/531;True;1,0;Andy, Stanley, Tony
+2;325;Dropbox;https://www.ycombinator.com/companies/325;True;1,0;Arash, Drew
+3;202;PagerDuty;https://www.ycombinator.com/companies/202;True;1,0;Baskar, Alex
+4;240;Stripe;https://www.ycombinator.com/companies/240;True;;
+5;590;Cruise;https://www.ycombinator.com/companies/590;True;1,0;Kyle, Daniel
+6;468;Instacart;https://www.ycombinator.com/companies/468;True;0,5;Brandon, Apoorva, Max
+7;439;Coinbase;https://www.ycombinator.com/companies/439;True;;
+8;442;Zapier;https://www.ycombinator.com/companies/442;True;1,0;Wade, Mike, Bryan
+9;729;Ginkgo Bioworks;https://www.ycombinator.com/companies/729;True;1,0;Barry, Austin, Jason, Tom, Reshma
+10;1103;Rappi;https://www.ycombinator.com/companies/1103;True;1,0;Simon, Sebastian, Felipe
+11;24;Gusto;https://www.ycombinator.com/companies/24;False;1,0;Edward, Tomer, Josh
+12;1294;Scale AI;https://www.ycombinator.com/companies/1294;True;;
+13;595;Flexport;https://www.ycombinator.com/companies/595;True;;
+14;88;Segment;https://www.ycombinator.com/companies/88;True;1,0;Peter, Calvin, Ian, Ilya
+15;379;Reddit;https://www.ycombinator.com/companies/379;True;1,0;Steve
+16;1433;MessageBird;https://www.ycombinator.com/companies/1433;True;1,0;Bob, Robert, Joey
+17;1556;Brex;https://www.ycombinator.com/companies/1556;False;1,0;Henrique, Pedro
+18;810;GitLab;https://www.ycombinator.com/companies/810;True;1,0;Sid, Dmitriy
+19;1543;Faire;https://www.ycombinator.com/companies/1543;True;1,0;Marcelo, Daniele, Max
+20;1080;Relativity Space;https://www.ycombinator.com/companies/1080;True;1,0;Tim
+21;40;Amplitude;https://www.ycombinator.com/companies/40;True;1,0;Curtis, Spenser
+22;662;Checkr;https://www.ycombinator.com/companies/662;True;1,0;Jonathan, Daniel
+23;1266;Meesho;https://www.ycombinator.com/companies/1266;True;1,0;Vidit, Sanjeev
+24;168;GOAT Group;https://www.ycombinator.com/companies/168;True;1,0;Eddy, Daishin
+25;1042;Podium;https://www.ycombinator.com/companies/1042;True;;
+26;1451;Rippling;https://www.ycombinator.com/companies/1451;True;1,0;Parker, Prasanna
+27;730;Helion Energy;https://www.ycombinator.com/companies/730;True;1,0;David, Chris, John
+28;482;Fivetran;https://www.ycombinator.com/companies/482;True;;
+29;1993;Momentus;https://www.ycombinator.com/companies/1993;True;1,0;Mikhail
+30;566;Webflow;https://www.ycombinator.com/companies/566;True;1,0;Bryant, Sergie, Vlad
+31;1081;Boom;https://www.ycombinator.com/companies/1081;True;;
+32;827;Razorpay;https://www.ycombinator.com/companies/827;True;1,0;Shashank, Harshil
+33;383;Twitch;https://www.ycombinator.com/companies/383;True;1,0;Emmett, Justin, Michael, Kyle
+34;630;Weave;https://www.ycombinator.com/companies/630;True;1,0;Clint, Brandon, Jared
+35;1564;Retool;https://www.ycombinator.com/companies/1564;False;;
+36;866;Ironclad;https://www.ycombinator.com/companies/866;True;1,0;Jason, Cai
+37;98;GoCardless;https://www.ycombinator.com/companies/98;True;;
+38;8;PlanGrid;https://www.ycombinator.com/companies/8;True;0,5;Ryan, Ralph, Tracy
+39;248;Mixpanel;https://www.ycombinator.com/companies/248;True;;
+40;445;Benchling;https://www.ycombinator.com/companies/445;True;;
+41;727;Front;https://www.ycombinator.com/companies/727;True;1,0;Mathilde, Laurent
+42;508;Goldbelly;https://www.ycombinator.com/companies/508;True;1,0;Joe, Joel, Trevor, Vanessa
+43;622;Snapdocs;https://www.ycombinator.com/companies/622;True;1,0;Aaron
+44;1771;Modern Health;https://www.ycombinator.com/companies/1771;True;0,0;Alyson
+45;705;ShipBob;https://www.ycombinator.com/companies/705;True;;
+46;603;MBX;https://www.ycombinator.com/companies/603;True;;
+47;1603;Standard Cognition;https://www.ycombinator.com/companies/1603;True;1,0;Jordan, John, Michael, David
+48;982;Embark Trucks;https://www.ycombinator.com/companies/982;True;1,0;Brandon, Alex
+49;1270;The Athletic;https://www.ycombinator.com/companies/1270;True;;
+50;1079;SendBird;https://www.ycombinator.com/companies/1079;True;1,0;John, Brandon, Harry
+51;973;Lattice;https://www.ycombinator.com/companies/973;True;1,0;Jack, Eric
+52;1635;Truepill;https://www.ycombinator.com/companies/1635;False;1,0;Umar, Sid
+53;356;Scribd;https://www.ycombinator.com/companies/356;True;1,0;Trip, Tikhon
+54;756;Atomwise;https://www.ycombinator.com/companies/756;False;1,0;Abraham, Izhar
+55;19;Rescale;https://www.ycombinator.com/companies/19;True;1,0;Joris, Adam
+56;809;EquipmentShare;https://www.ycombinator.com/companies/809;True;1,0;Jeff, Matthew, Jabbok, William, Brad
+57;1654;Newfront Insurance;https://www.ycombinator.com/companies/1654;False;1,0;Spike, Gordon
+58;767;GrubMarket;https://www.ycombinator.com/companies/767;False;;
+59;490;InfluxData;https://www.ycombinator.com/companies/490;True;1,0;Todd, Paul
+60;967;Human Interest;https://www.ycombinator.com/companies/967;True;;
+61;1360;ClassDojo;https://www.ycombinator.com/companies/1360;True;;
+62;1299;People.ai;https://www.ycombinator.com/companies/1299;True;1,0;Oleg
+63;938;Xendit;https://www.ycombinator.com/companies/938;True;;
+64;1548;Ridecell;https://www.ycombinator.com/companies/1548;True;;
+65;12373;Shipper;https://www.ycombinator.com/companies/12373;;1,0;Budi, Phil
+66;30;MatterPort;https://www.ycombinator.com/companies/30;True;;
+67;102;Sift;https://www.ycombinator.com/companies/102;True;1,0;Jason
+68;1953;Duffel;https://www.ycombinator.com/companies/1953;True;1,0;Tom, Steve
+69;12504;Vouch;https://www.ycombinator.com/companies/12504;True;;
+70;636;Algolia;https://www.ycombinator.com/companies/636;True;1,0;Nicolas, Julien
+71;972;Mux;https://www.ycombinator.com/companies/972;True;1,0;Adam, Jon, Steve, Matthew
+72;177;Presto;https://www.ycombinator.com/companies/177;True;1,0;Rajat
+73;1067;NURX;https://www.ycombinator.com/companies/1067;True;;
+74;532;EasyPost;https://www.ycombinator.com/companies/532;True;;
+75;994;Outschool;https://www.ycombinator.com/companies/994;True;1,0;Nicholas, Amir, Mikhail
+76;407;Mattermost;https://www.ycombinator.com/companies/407;True;;
+77;1859;Observe.AI;https://www.ycombinator.com/companies/1859;True;1,0;Swapnil, Sharath, Akash
+78;1893;Modern Treasury;https://www.ycombinator.com/companies/1893;True;1,0;Matt, Sam, Dimitri
+79;1225;Nova Credit;https://www.ycombinator.com/companies/1225;True;0,0;Misha, Nicky
+80;1352;Proxy;https://www.ycombinator.com/companies/1352;False;1,0;Denis, Simon
+81;1616;Flock Safety;https://www.ycombinator.com/companies/1616;True;;
+82;2032;OkCredit;https://www.ycombinator.com/companies/2032;True;1,0;Gaurav, Harsh, Aditya
+83;1541;UpKeep;https://www.ycombinator.com/companies/1541;True;;
+84;221;Optimizely;https://www.ycombinator.com/companies/221;True;1,0;Dan, Pete
+85;498;Heap;https://www.ycombinator.com/companies/498;True;1,0;Ravi, Matin
+86;134;SingleStore;https://www.ycombinator.com/companies/134;True;;
+87;244;WePay;https://www.ycombinator.com/companies/244;True;1,0;Richard, Bill
+88;2007;Khatabook;https://www.ycombinator.com/companies/2007;True;1,0;Dhanesh, Ravish, Ashish
+89;344;Weebly;https://www.ycombinator.com/companies/344;True;1,0;David, Chris, Dan
+90;1051;Gecko Robotics;https://www.ycombinator.com/companies/1051;True;1,0;Troy, Jake
+91;158;Fivestars;https://www.ycombinator.com/companies/158;True;1,0;Victor, Matthew
+92;1269;Squire Technologies;https://www.ycombinator.com/companies/1269;True;;
+93;528;CoreOS;https://www.ycombinator.com/companies/528;True;;
+94;1594;Lambda School;https://www.ycombinator.com/companies/1594;True;;
+95;1580;PAYFAZZ;https://www.ycombinator.com/companies/1580;True;1,0;Jefriyanto, Hendra, Ricky
+96;664;ClearTax;https://www.ycombinator.com/companies/664;True;1,0;Srivatsan, Archit, Ankit
+97;412;Clever;https://www.ycombinator.com/companies/412;True;;
+98;1457;Volansi;https://www.ycombinator.com/companies/1457;False;;
+99;311;Heroku;https://www.ycombinator.com/companies/311;True;;
+100;1513;Solugen;https://www.ycombinator.com/companies/1513;True;1,0;Gaurab, Sean
+101;583;Cambly;https://www.ycombinator.com/companies/583;True;1,0;Kevin, Sameer
+102;13133;H1;https://www.ycombinator.com/companies/13133;True;1,0;Ariel, Ian
+103;789;Tempo;https://www.ycombinator.com/companies/789;True;1,0;Joshua, Moawia
+104;119;Vidyard;https://www.ycombinator.com/companies/119;False;;
+105;145;HelloSign;https://www.ycombinator.com/companies/145;True;;
+106;749;LogDNA;https://www.ycombinator.com/companies/749;True;1,0;Lee, Chris
+107;12064;Deel;https://www.ycombinator.com/companies/12064;True;1,0;Alex, Shuo
+108;1839;Groww;https://www.ycombinator.com/companies/1839;True;1,0;Ishan, Harsh, Lalit, Neeraj
+109;944;Go1;https://www.ycombinator.com/companies/944;True;1,0;Andrew, Chris, Chris, Vu
+110;1486;Armory;https://www.ycombinator.com/companies/1486;True;;
+111;1680;May Mobility;https://www.ycombinator.com/companies/1680;True;;
+112;1272;Athelas;https://www.ycombinator.com/companies/1272;False;;
+113;1237;garten;https://www.ycombinator.com/companies/1237;True;;
+114;1487;Ambient.ai;https://www.ycombinator.com/companies/1487;;1,0;Vikesh, Shikhar
+115;640;Unbabel;https://www.ycombinator.com/companies/640;True;1,0;Vasco, João, Bruno, Hugo
+116;1005;Truebill;https://www.ycombinator.com/companies/1005;False;1,0;Haroon, Idris, Yahya
+117;1284;Flutterwave;https://www.ycombinator.com/companies/1284;True;0,5;Iyinoluwa, ACA, Olugbenga
+118;597;Axoni;https://www.ycombinator.com/companies/597;True;1,0;Greg, Jeffrey
+119;893;Eden Workplace;https://www.ycombinator.com/companies/893;True;1,0;Joe, Kyle, Guy
+120;11995;Nabis;https://www.ycombinator.com/companies/11995;True;1,0;Vince, Jun
+121;1713;Cashfree;https://www.ycombinator.com/companies/1713;True;1,0;Reeju, Akash
+122;1694;Gem;https://www.ycombinator.com/companies/1694;True;1,0;Steven, Nick
+123;1828;Substack;https://www.ycombinator.com/companies/1828;False;1,0;Chris, Hamish, Jairaj
+124;989;Tovala;https://www.ycombinator.com/companies/989;True;1,0;David, Bryan
+125;1754;Mighty Buildings;https://www.ycombinator.com/companies/1754;True;1,0;Slava, Dmitry
+126;1091;GitPrime;https://www.ycombinator.com/companies/1091;True;;
+127;1109;BillionToOne;https://www.ycombinator.com/companies/1109;True;;
+128;12391;ZeroDown;https://www.ycombinator.com/companies/12391;False;1,0;Abhijeet, Laks, Hari
+129;626;Guesty;https://www.ycombinator.com/companies/626;True;;
+130;739;Notable Labs;https://www.ycombinator.com/companies/739;True;1,0;Peter
+131;552;Lob;https://www.ycombinator.com/companies/552;True;0,0;Leore, Harry
+132;549;Panorama Education;https://www.ycombinator.com/companies/549;True;1,0;Xan, Aaron
+133;702;SFOX;https://www.ycombinator.com/companies/702;True;;
+134;1093;Astranis;https://www.ycombinator.com/companies/1093;;;
+135;197;FutureAdvisor;https://www.ycombinator.com/companies/197;True;;
+136;1732;Shogun;https://www.ycombinator.com/companies/1732;True;1,0;Nick, Finbarr
+137;999;Focal Systems;https://www.ycombinator.com/companies/999;True;1,0;Michael, Francois
+138;997;Mio;https://www.ycombinator.com/companies/997;True;1,0;James, Tom
+139;996;Daily;https://www.ycombinator.com/companies/996;True;;
+140;995;Petcube;https://www.ycombinator.com/companies/995;True;1,0;Andrey, Alex, Yaroslav
+141;991;Mason;https://www.ycombinator.com/companies/991;True;;
+142;990;MagicBus;https://www.ycombinator.com/companies/990;False;1,0;Ray, Jason, Chris
+143;988;iSono Health;https://www.ycombinator.com/companies/988;True;;
+144;987;GetAccept;https://www.ycombinator.com/companies/987;True;1,0;Jonas, Mathias, Carl, Samir
+145;986;AlphaFlow;https://www.ycombinator.com/companies/986;True;1,0;Ray
+146;985;Chatfuel;https://www.ycombinator.com/companies/985;True;1,0;Dmitrii, Artem, Andrew
+147;984;Yardbook;https://www.ycombinator.com/companies/984;True;1,0;Mark
+148;983;VINEBOX;https://www.ycombinator.com/companies/983;True;1,0;Matthew, Rachel
+149;979;Stilt;https://www.ycombinator.com/companies/979;True;1,0;Rohit, Priyank
+150;978;Stealth Worker;https://www.ycombinator.com/companies/978;True;;
+151;977;Deepgram;https://www.ycombinator.com/companies/977;True;1,0;Scott
+152;974;SOUNDBOKS;https://www.ycombinator.com/companies/974;True;1,0;Jesper, Hjalte, Christoffer
+153;971;Gigster;https://www.ycombinator.com/companies/971;True;0,0;Debo
+154;970;VOIQ;https://www.ycombinator.com/companies/970;False;;
+155;969;Tenant Turner;https://www.ycombinator.com/companies/969;True;1,0;Brandon, James, Chris
+156;966;Flirtey;https://www.ycombinator.com/companies/966;True;1,0;Matthew
+157;964;Eight Sleep;https://www.ycombinator.com/companies/964;True;;
+158;963;Instawork;https://www.ycombinator.com/companies/963;True;1,0;Sumir
+159;962;Cofactor Genomics;https://www.ycombinator.com/companies/962;True;;
+160;961;Click & Grow;https://www.ycombinator.com/companies/961;True;;
+161;960;Bitmovin;https://www.ycombinator.com/companies/960;True;1,0;Christian, Stefan, Christopher
+162;959;PlateJoy;https://www.ycombinator.com/companies/959;True;1,0;Christina, Daniel
+163;958;StyleBee;https://www.ycombinator.com/companies/958;True;0,0;Anna
+164;956;Nebia;https://www.ycombinator.com/companies/956;True;;
+165;952;TetraScience;https://www.ycombinator.com/companies/952;True;;
+166;950;Fetch;https://www.ycombinator.com/companies/950;False;1,0;Chris, Adam
+167;949;The Ticket Fairy;https://www.ycombinator.com/companies/949;True;1,0;Jigar, Ritesh
+168;946;HER;https://www.ycombinator.com/companies/946;True;0,0;Robyn
+169;945;Saida;https://www.ycombinator.com/companies/945;True;1,0;Kyale, Kenneth
+170;943;Font Awesome;https://www.ycombinator.com/companies/943;False;;
+171;941;80,000 Hours;https://www.ycombinator.com/companies/941;True;1,0;William, Benjamin, Robert
+172;937;Shred Video;https://www.ycombinator.com/companies/937;True;1,0;Mike, Mark
+173;936;Shape (ShapeScale);https://www.ycombinator.com/companies/936;True;1,0;Martin, Alexandre
+174;934;Scentbird;https://www.ycombinator.com/companies/934;False;;
+175;932;RedCarpetUp;https://www.ycombinator.com/companies/932;False;1,0;Kartik, sandeep
+176;931;Plate IQ;https://www.ycombinator.com/companies/931;True;1,0;Ram, Bhavuk
+177;928;PickTrace;https://www.ycombinator.com/companies/928;True;1,0;Austin, Harrison
+178;926;Oolu;https://www.ycombinator.com/companies/926;False;0,0;Nilmi, Dan
+179;925;Fountain;https://www.ycombinator.com/companies/925;True;1,0;Keith
+180;923;MicroHealth;https://www.ycombinator.com/companies/923;True;1,0;Marc, Miguel
+181;922;Zeplin;https://www.ycombinator.com/companies/922;True;0,6666666666666666;Merih, Ismail, Pelin, Berk
+182;921;Markhor;https://www.ycombinator.com/companies/921;False;0,0;Waqas, Sidra
+183;916;zPREDICTA;https://www.ycombinator.com/companies/916;True;;
+184;915;Circle Medical;https://www.ycombinator.com/companies/915;False;;
+185;914;GiveCampus;https://www.ycombinator.com/companies/914;True;;
+186;913;Drip Capital;https://www.ycombinator.com/companies/913;True;1,0;Neil, Pushkar
+187;910;Chaldal;https://www.ycombinator.com/companies/910;;1,0;Waseem, Zia, Tejas
+188;91;Clerky;https://www.ycombinator.com/companies/91;True;0,5;Chris, Darby
+189;908;Bodyport;https://www.ycombinator.com/companies/908;True;1,0;Corey, Sarah
+190;902;Verge Genomics;https://www.ycombinator.com/companies/902;True;;
+191;901;Thrive Agritech;https://www.ycombinator.com/companies/901;True;;
+192;900;Tesorio;https://www.ycombinator.com/companies/900;True;;
+193;90;AgileMD;https://www.ycombinator.com/companies/90;True;;
+194;898;Reach Labs;https://www.ycombinator.com/companies/898;True;1,0;Chris
+195;896;SunFarmer;https://www.ycombinator.com/companies/896;True;;
+196;894;Foxpass;https://www.ycombinator.com/companies/894;True;;
+197;890;Convox;https://www.ycombinator.com/companies/890;True;;
+198;889;Confident Cannabis;https://www.ycombinator.com/companies/889;True;1,0;Steve, Tony, Miller
+199;888;Branch8;https://www.ycombinator.com/companies/888;True;0,6666666666666666;Elton, Jackie, Matt, Tim
+200;884;Heroic Labs;https://www.ycombinator.com/companies/884;True;1,0;Chris, Mo, Andrei
+201;878;SnapEDA;https://www.ycombinator.com/companies/878;True;0,0;Natasha
+202;876;Scope AR;https://www.ycombinator.com/companies/876;True;1,0;Scott, David
+203;873;PartnerStack;https://www.ycombinator.com/companies/873;True;;
+204;872;Assembly;https://www.ycombinator.com/companies/872;True;;
+205;871;Gemnote;https://www.ycombinator.com/companies/871;False;0,0;Ashley
+206;870;OpenInvest;https://www.ycombinator.com/companies/870;True;1,0;Conor, Phillip
+207;869;New Story Charity;https://www.ycombinator.com/companies/869;False;0,6666666666666666;Brett, Alexandria, Matthew
+208;867;Jopwell;https://www.ycombinator.com/companies/867;False;1,0;Porter, Ryan
+209;865;InnerSpace;https://www.ycombinator.com/companies/865;False;0,5;Saran, Joe, Semira
+210;864;teaBOT;https://www.ycombinator.com/companies/864;True;;
+211;862;Teleport;https://www.ycombinator.com/companies/862;True;1,0;Taylor, Alexander, Ev
+212;861;Lugg;https://www.ycombinator.com/companies/861;True;1,0;Jordan, Eric
+213;860;Triplebyte;https://www.ycombinator.com/companies/860;True;1,0;Ammon, Guillaume
+214;86;Codecademy;https://www.ycombinator.com/companies/86;True;;
+215;858;Posthaven;https://www.ycombinator.com/companies/858;False;1,0;Brett, Garry
+216;857;Shasqi;https://www.ycombinator.com/companies/857;True;;
+217;856;Mashgin;https://www.ycombinator.com/companies/856;True;1,0;Mukul, Abhinai
+218;855;Lumi;https://www.ycombinator.com/companies/855;True;1,0;Stephan, Jesse
+219;853;Spire;https://www.ycombinator.com/companies/853;True;0,0;Neema, Ben
+220;851;NimbleRx;https://www.ycombinator.com/companies/851;True;1,0;Talha
+221;85;Quartzy;https://www.ycombinator.com/companies/85;True;1,0;Jayant, Adam
+222;849;Replika;https://www.ycombinator.com/companies/849;True;;
+223;848;Tara AI;https://www.ycombinator.com/companies/848;True;;
+224;847;Flip;https://www.ycombinator.com/companies/847;True;;
+225;843;Bagaveev Corporation;https://www.ycombinator.com/companies/843;False;1,0;Nadir
+226;840;X-Zell;https://www.ycombinator.com/companies/840;True;1,0;Sebastian, Prapat
+227;839;Wink Health;https://www.ycombinator.com/companies/839;True;1,0;Darwin
+228;835;Transcriptic;https://www.ycombinator.com/companies/835;True;;
+229;834;Zenflow;https://www.ycombinator.com/companies/834;True;0,0;Nick, Shreya
+230;833;Tab;https://www.ycombinator.com/companies/833;;1,0;Mark
+231;832;Standard Cyborg;https://www.ycombinator.com/companies/832;True;;
+232;83;Science Exchange;https://www.ycombinator.com/companies/83;True;;
+233;826;Priime;https://www.ycombinator.com/companies/826;True;1,0;Loren, Arthur, Andrew, Joe
+234;825;Pretty Instant;https://www.ycombinator.com/companies/825;True;1,0;Ben, Chris, Douglas, Chase
+235;824;Popular Pays;https://www.ycombinator.com/companies/824;True;1,0;Corbett, Steven
+236;823;Pigeonly;https://www.ycombinator.com/companies/823;True;1,0;Alfonzo, Frederick
+237;822;Placenote;https://www.ycombinator.com/companies/822;True;1,0;Yan, Neil, Prasenjit
+238;82;Streak;https://www.ycombinator.com/companies/82;True;;
+239;817;Meadow;https://www.ycombinator.com/companies/817;True;1,0;Rick, David, Scott, Harrison
+240;815;Level Frames;https://www.ycombinator.com/companies/815;True;1,0;Josh, Damian
+241;814;NexTravel;https://www.ycombinator.com/companies/814;True;1,0;Wen-Wen, Alexey
+242;813;Industrial Microbes;https://www.ycombinator.com/companies/813;False;1,0;Liz, Derek, Noah
+243;808;eBrandvalue;https://www.ycombinator.com/companies/808;True;;
+244;807;Quantierra;https://www.ycombinator.com/companies/807;True;1,0;Sandip
+245;805;Lucira Health;https://www.ycombinator.com/companies/805;False;;
+246;804;Dealyze;https://www.ycombinator.com/companies/804;True;1,0;William, Mark
+247;802;Cleanly;https://www.ycombinator.com/companies/802;True;1,0;Tom
+248;801;WayUp;https://www.ycombinator.com/companies/801;True;1,0;JJ, Liz
+249;797;Resolve;https://www.ycombinator.com/companies/797;True;;
+250;795;Underground Cellar;https://www.ycombinator.com/companies/795;True;;
+251;793;Remix;https://www.ycombinator.com/companies/793;True;0,5;Tiffany, Daniel, Sam, Danny
+252;792;Mobydish;https://www.ycombinator.com/companies/792;True;;
+253;791;Makrwatch;https://www.ycombinator.com/companies/791;True;;
+254;790;TeamNote;https://www.ycombinator.com/companies/790;True;1,0;Roy, Ming, Jon
+255;788;Smarking;https://www.ycombinator.com/companies/788;True;0,5;Wen, Maokai
+256;787;SIRUM;https://www.ycombinator.com/companies/787;True;;
+257;786;Sails Co.;https://www.ycombinator.com/companies/786;True;;
+258;785;Shift Labs;https://www.ycombinator.com/companies/785;True;0,0;Koji, Beth
+259;782;ReadMe;https://www.ycombinator.com/companies/782;True;;
+260;781;BuildScience;https://www.ycombinator.com/companies/781;True;;
+261;780;Paperspace;https://www.ycombinator.com/companies/780;True;1,0;Daniel, Dillon
+262;779;Pakible;https://www.ycombinator.com/companies/779;True;;
+263;778;Pachyderm;https://www.ycombinator.com/companies/778;True;1,0;Joe, Joey
+264;774;Platzi;https://www.ycombinator.com/companies/774;True;1,0;Christian, Freddy
+265;773;Labdoor;https://www.ycombinator.com/companies/773;True;;
+266;772;Kickpay;https://www.ycombinator.com/companies/772;True;;
+267;771;Kickback;https://www.ycombinator.com/companies/771;False;1,0;Vlad, Mark
+268;769;HigherMe;https://www.ycombinator.com/companies/769;True;1,0;Jef, Rob
+269;764;GiveMeTap;https://www.ycombinator.com/companies/764;True;;
+270;763;Bankjoy;https://www.ycombinator.com/companies/763;True;;
+271;762;DroneBase;https://www.ycombinator.com/companies/762;;;
+272;761;The Human Utility;https://www.ycombinator.com/companies/761;True;;
+273;760;Democracy Earth;https://www.ycombinator.com/companies/760;True;1,0;Pia, Santiago
+274;76;OneSignal;https://www.ycombinator.com/companies/76;True;;
+275;755;Bright;https://www.ycombinator.com/companies/755;True;1,0;Jonah
+276;751;Magic;https://www.ycombinator.com/companies/751;True;1,0;Mike, Benjamin, Aaron, David, Nic, Michael
+277;75;Genius;https://www.ycombinator.com/companies/75;True;1,0;Tom, Ilan
+278;748;Akido Labs;https://www.ycombinator.com/companies/748;True;1,0;Jared, Hugh, Prashant
+279;746;Tech in Asia;https://www.ycombinator.com/companies/746;True;;
+280;740;Qventus;https://www.ycombinator.com/companies/740;True;1,0;Ian, Mudit, Brent
+281;734;One Codex;https://www.ycombinator.com/companies/734;True;;
+282;732;Bayes Impact;https://www.ycombinator.com/companies/732;True;1,0;Paul
+283;731;Oklo;https://www.ycombinator.com/companies/731;False;1,0;Caroline, Jacob
+284;73;HackerRank;https://www.ycombinator.com/companies/73;True;1,0;Vivek, Harishankaran
+285;728;Cognito;https://www.ycombinator.com/companies/728;False;1,0;John, Alain, Chris
+286;722;Women.com;https://www.ycombinator.com/companies/722;True;;
+287;72;Apollo;https://www.ycombinator.com/companies/72;True;1,0;Matt, Nick, Geoff
+288;719;Roomstorm;https://www.ycombinator.com/companies/719;True;1,0;Maksim, Jakub
+289;717;Tule;https://www.ycombinator.com/companies/717;True;1,0;Tom
+290;714;Hive;https://www.ycombinator.com/companies/714;True;;
+291;713;Think Gaming;https://www.ycombinator.com/companies/713;True;1,0;Tim
+292;711;Tenjin;https://www.ycombinator.com/companies/711;True;1,0;Christopher, Amir
+293;709;SpotAngels;https://www.ycombinator.com/companies/709;True;1,0;Aboud, Hamza
+294;704;Apto Payments;https://www.ycombinator.com/companies/704;True;0,5;Greg, Meg
+295;703;UserGems;https://www.ycombinator.com/companies/703;True;1,0;Christian, Stephan
+296;700;Rigetti Computing;https://www.ycombinator.com/companies/700;True;;
+297;695;PicnicHealth;https://www.ycombinator.com/companies/695;False;0,5;Troy, Noga
+298;694;Permutive;https://www.ycombinator.com/companies/694;True;1,0;Joe, Tim
+299;693;Stacks;https://www.ycombinator.com/companies/693;True;;
+300;691;Alchemy;https://www.ycombinator.com/companies/691;True;1,0;Khanjan, Chong
+301;689;Naytev;https://www.ycombinator.com/companies/689;True;;
+302;688;MTailor;https://www.ycombinator.com/companies/688;True;;
+303;687;MetricWire;https://www.ycombinator.com/companies/687;True;;
+304;686;Replenish;https://www.ycombinator.com/companies/686;True;1,0;Elise, Matthew
+305;684;Lawn Love;https://www.ycombinator.com/companies/684;True;;
+306;681;Protocol Labs;https://www.ycombinator.com/companies/681;True;;
+307;680;Impraise;https://www.ycombinator.com/companies/680;True;1,0;Filipe, Bas
+308;677;Greentoe;https://www.ycombinator.com/companies/677;True;1,0;Andrew, Joe
+309;673;Hyperpad;https://www.ycombinator.com/companies/673;True;1,0;Hamed, Murtaza
+310;672;Flytenow;https://www.ycombinator.com/companies/672;True;1,0;Alan, Aakash, Matt
+311;670;Flaviar;https://www.ycombinator.com/companies/670;False;;
+312;666;PersistIQ;https://www.ycombinator.com/companies/666;True;;
+313;659;Bitaccess;https://www.ycombinator.com/companies/659;True;;
+314;658;Billforward;https://www.ycombinator.com/companies/658;True;0,0;Aubone
+315;654;Bannerman;https://www.ycombinator.com/companies/654;True;1,0;Johnny, Antoine
+316;653;Backpack;https://www.ycombinator.com/companies/653;True;1,0;Fahim, Sakib
+317;651;Aptible;https://www.ycombinator.com/companies/651;True;;
+318;647;Immunity Project;https://www.ycombinator.com/companies/647;False;1,0;Naveen, Reid
+319;643;Dyspatch;https://www.ycombinator.com/companies/643;True;;
+320;642;OpenCurriculum;https://www.ycombinator.com/companies/642;True;;
+321;641;MixerBox;https://www.ycombinator.com/companies/641;True;;
+322;639;GBatteries;https://www.ycombinator.com/companies/639;True;1,0;Nick, Tim
+323;637;Gobble;https://www.ycombinator.com/companies/637;True;0,0;Ooshma
+324;634;Zinc;https://www.ycombinator.com/companies/634;True;;
+325;633;Zidisha;https://www.ycombinator.com/companies/633;True;;
+326;628;TrueVault;https://www.ycombinator.com/companies/628;True;1,0;Jason
+327;625;Style Lend;https://www.ycombinator.com/companies/625;True;0,0;Lona
+328;623;Shopagram;https://www.ycombinator.com/companies/623;;1,0;Jamal
+329;621;MerryMint;https://www.ycombinator.com/companies/621;False;0,0;Yvonne
+330;620;SketchDeck;https://www.ycombinator.com/companies/620;False;1,0;David, Chris
+331;62;Medmonk;https://www.ycombinator.com/companies/62;True;1,0;Abbas, Somaira
+332;619;Shoobs;https://www.ycombinator.com/companies/619;True;;
+333;616;Pushbullet;https://www.ycombinator.com/companies/616;True;;
+334;615;Povio;https://www.ycombinator.com/companies/615;True;;
+335;613;PiinPoint;https://www.ycombinator.com/companies/613;True;;
+336;611;Theorem LP;https://www.ycombinator.com/companies/611;True;0,5;Abeer, Hugh
+337;608;One Degree;https://www.ycombinator.com/companies/608;True;1,0;Rey, Eric
+338;606;Next Caller;https://www.ycombinator.com/companies/606;True;;
+339;602;Emailio;https://www.ycombinator.com/companies/602;;1,0;Martin, Teo
+340;600;Taplytics;https://www.ycombinator.com/companies/600;True;1,0;Andrew, Cobi, Aaron, Jonathan
+341;59;Priceonomics;https://www.ycombinator.com/companies/59;True;;
+342;588;CodeNow;https://www.ycombinator.com/companies/588;True;;
+343;587;CodeCombat;https://www.ycombinator.com/companies/587;True;;
+344;585;Noora Health;https://www.ycombinator.com/companies/585;True;0,0;Katy, Edith
+345;581;Chargehound;https://www.ycombinator.com/companies/581;True;1,0;Adrian, Dmitri
+346;580;Bellabeat;https://www.ycombinator.com/companies/580;True;1,0;Urska, Sandro
+347;58;YourMechanic;https://www.ycombinator.com/companies/58;True;;
+348;578;AptDeco;https://www.ycombinator.com/companies/578;True;0,5;Reham, kalam
+349;577;CareMessage;https://www.ycombinator.com/companies/577;True;0,0;Cecilia, Vineet
+350;576;Ambition;https://www.ycombinator.com/companies/576;True;1,0;Jared, Brian, Travis
+351;574;AirHelp;https://www.ycombinator.com/companies/574;True;1,0;Nicolas, Henrik
+352;571;42;https://www.ycombinator.com/companies/571;True;;
+353;563;True Link;https://www.ycombinator.com/companies/563;True;1,0;Claire, Kai
+354;556;Arcus;https://www.ycombinator.com/companies/556;True;1,0;Edrizio, Juan, Inigo
+355;555;Reebee;https://www.ycombinator.com/companies/555;True;1,0;Tobiasz, Michal
+356;554;RealCrowd;https://www.ycombinator.com/companies/554;True;1,0;Adam, Andy
+357;548;One Month;https://www.ycombinator.com/companies/548;True;1,0;Chris
+358;546;Senic;https://www.ycombinator.com/companies/546;True;1,0;Tobias
+359;544;Le Tote;https://www.ycombinator.com/companies/544;True;1,0;Brett, Rakesh
+360;542;Casetext;https://www.ycombinator.com/companies/542;True;1,0;Jacob
+361;540;Cratejoy;https://www.ycombinator.com/companies/540;True;1,0;Amir, Alex
+362;534;Estimote, Inc.;https://www.ycombinator.com/companies/534;True;1,0;Lukasz, Jakub
+363;522;Asseta;https://www.ycombinator.com/companies/522;True;;
+364;52;Per Vices;https://www.ycombinator.com/companies/52;True;1,0;Brandon, Victor
+365;517;7cups;https://www.ycombinator.com/companies/517;True;;
+366;516;Watsi;https://www.ycombinator.com/companies/516;True;0,5;Jesse, Chase, Grace
+367;512;Teespring;https://www.ycombinator.com/companies/512;True;1,0;Walker
+368;51;Fond;https://www.ycombinator.com/companies/51;True;1,0;Taro, Sunny
+369;507;Zenefits;https://www.ycombinator.com/companies/507;True;;
+370;505;Wevorce;https://www.ycombinator.com/companies/505;True;0,0;Michelle
+371;503;Wefunder;https://www.ycombinator.com/companies/503;False;1,0;Nick, Greg
+372;502;CrowdMed;https://www.ycombinator.com/companies/502;True;1,0;Jared
+373;500;SimplyInsured;https://www.ycombinator.com/companies/500;True;1,0;Vivek
+374;5;CircuitHub;https://www.ycombinator.com/companies/5;True;;
+375;497;Experiment;https://www.ycombinator.com/companies/497;True;;
+376;493;RADAR;https://www.ycombinator.com/companies/493;True;;
+377;492;Lollipuff;https://www.ycombinator.com/companies/492;True;;
+378;491;Strikingly;https://www.ycombinator.com/companies/491;True;1,0;Teng, Dafeng, David
+379;488;Etleap;https://www.ycombinator.com/companies/488;True;1,0;Christian
+380;487;Medisas;https://www.ycombinator.com/companies/487;True;1,0;Gautam
+381;486;Cheetah;https://www.ycombinator.com/companies/486;;;
+382;484;Lawdingo;https://www.ycombinator.com/companies/484;True;;
+383;481;Padlet;https://www.ycombinator.com/companies/481;True;;
+384;479;BuildZoom;https://www.ycombinator.com/companies/479;True;;
+385;473;Interana;https://www.ycombinator.com/companies/473;True;1,0;Lior, Bobby
+386;471;CircuitLab;https://www.ycombinator.com/companies/471;False;;
+387;47;FarmLogs;https://www.ycombinator.com/companies/47;False;1,0;Brad, Jesse
+388;469;9gag;https://www.ycombinator.com/companies/469;True;1,0;Chris, Derek, Ray, Marco, Brian
+389;467;Svbtle;https://www.ycombinator.com/companies/467;True;1,0;Dustin
+390;465;Thread;https://www.ycombinator.com/companies/465;True;1,0;Kieran, Ben
+391;464;Plivo;https://www.ycombinator.com/companies/464;True;1,0;Venky, Michael
+392;462;Study Edge;https://www.ycombinator.com/companies/462;True;;
+393;461;Double Robotics;https://www.ycombinator.com/companies/461;True;1,0;David, Marc
+394;460;Vastrm;https://www.ycombinator.com/companies/460;True;;
+395;446;Flightfox;https://www.ycombinator.com/companies/446;True;;
+396;444;BackerKit;https://www.ycombinator.com/companies/444;True;;
+397;440;Submittable;https://www.ycombinator.com/companies/440;True;;
+398;438;NewsBlur;https://www.ycombinator.com/companies/438;False;1,0;Samuel
+399;432;OctaveWealth;https://www.ycombinator.com/companies/432;True;;
+400;429;Lever;https://www.ycombinator.com/companies/429;True;;
+401;428;Upwave;https://www.ycombinator.com/companies/428;True;1,0;Chris
+402;419;Sparkboard;https://www.ycombinator.com/companies/419;;1,0;Matthew
+403;418;Crohnology;https://www.ycombinator.com/companies/418;True;;
+404;417;Eligible;https://www.ycombinator.com/companies/417;True;;
+405;415;FundersClub;https://www.ycombinator.com/companies/415;True;;
+406;414;SmartAsset;https://www.ycombinator.com/companies/414;True;;
+407;410;Soylent;https://www.ycombinator.com/companies/410;True;;
+408;41;LendUp;https://www.ycombinator.com/companies/41;True;;
+409;409;Zentail;https://www.ycombinator.com/companies/409;True;;
+410;405;HealthSherpa;https://www.ycombinator.com/companies/405;;0,0;George, Ning
+411;403;Human Dx;https://www.ycombinator.com/companies/403;False;1,0;Jay, Irving
+412;402;Mth Sense;https://www.ycombinator.com/companies/402;True;;
+413;395;Rainforest;https://www.ycombinator.com/companies/395;True;;
+414;36;Talkray (TiKL);https://www.ycombinator.com/companies/36;True;;
+415;35;Screenleap, Inc.;https://www.ycombinator.com/companies/35;True;;
+416;347;Buxfer;https://www.ycombinator.com/companies/347;;1,0;Shashank
+417;343;Virtualmin;https://www.ycombinator.com/companies/343;;1,0;Jamie, Joe
+418;33;Make School;https://www.ycombinator.com/companies/33;True;;
+419;326;Blue Frog Gaming;https://www.ycombinator.com/companies/326;;;
+420;32;CleverDeck;https://www.ycombinator.com/companies/32;True;1,0;Justin
+421;31;Shoptiques;https://www.ycombinator.com/companies/31;True;;
+422;306;Ninite;https://www.ycombinator.com/companies/306;True;;
+423;305;A Thinking Ape;https://www.ycombinator.com/companies/305;True;1,0;Eric, Kenshi
+424;304;RescueTime;https://www.ycombinator.com/companies/304;True;1,0;Brian, Tony
+425;282;Poll Everywhere;https://www.ycombinator.com/companies/282;True;;
+426;270;Volantio;https://www.ycombinator.com/companies/270;True;1,0;Fenn, Tom
+427;268;Wattvision;https://www.ycombinator.com/companies/268;True;;
+428;26;Marft;https://www.ycombinator.com/companies/26;True;;
+429;259;Lingt;https://www.ycombinator.com/companies/259;True;1,0;Justin
+430;258;RentHop;https://www.ycombinator.com/companies/258;True;;
+431;252;Alphacare;https://www.ycombinator.com/companies/252;;1,0;Colin
+432;249;Olark;https://www.ycombinator.com/companies/249;True;;
+433;245;Directed Edge;https://www.ycombinator.com/companies/245;False;1,0;Scott
+434;239;Listia;https://www.ycombinator.com/companies/239;True;;
+435;23631;Camelan;https://www.ycombinator.com/companies/23631;True;;
+436;23613;MagicBell;https://www.ycombinator.com/companies/23613;True;0,0;Hana, Josue
+437;23461;Outfit;https://www.ycombinator.com/companies/23461;True;;
+438;23357;Treinta;https://www.ycombinator.com/companies/23357;True;1,0;Lluis, Man
+439;23304;Moonshot Brands;https://www.ycombinator.com/companies/23304;True;1,0;Allan, CJ
+440;23303;HiGeorge;https://www.ycombinator.com/companies/23303;False;1,0;Anuj, Amir
+441;23265;Mono;https://www.ycombinator.com/companies/23265;True;;
+442;23229;Pyroscope;https://www.ycombinator.com/companies/23229;True;1,0;Dmitry, Ryan
+443;23191;Venu;https://www.ycombinator.com/companies/23191;True;1,0;Fanny, Justin, Nanette, Jeremy, Patrick
+444;23175;Betterhalf;https://www.ycombinator.com/companies/23175;True;1,0;Pawan, Rahul
+445;23167;Worksphere;https://www.ycombinator.com/companies/23167;True;1,0;Theresa, Mark, Aakhil
+446;23065;Finantier;https://www.ycombinator.com/companies/23065;True;1,0;Keng, Diego
+447;23064;Tint;https://www.ycombinator.com/companies/23064;True;;
+448;23062;InpharmD;https://www.ycombinator.com/companies/23062;False;1,0;Ashish, Tulasee
+449;23038;dyte;https://www.ycombinator.com/companies/23038;True;1,0;Palash, Abhishek, Kushagra
+450;22986;Anomaly Innovations;https://www.ycombinator.com/companies/22986;True;1,0;Jay, Frank
+451;22974;LogisticsOS;https://www.ycombinator.com/companies/22974;False;1,0;Yuzhe, Tiangang
+452;22951;Datrics;https://www.ycombinator.com/companies/22951;True;1,0;Kirill, Volodymyr, Anton
+453;22878;Popl;https://www.ycombinator.com/companies/22878;True;1,0;Jason, Nick, Jeremy
+454;22869;Logica;https://www.ycombinator.com/companies/22869;True;0,0;Carissa, Leandro
+455;22842;Dashlabs.ai;https://www.ycombinator.com/companies/22842;True;1,0;Bryan, Martin, Weston, JB
+456;22829;Juniper;https://www.ycombinator.com/companies/22829;True;1,0;Nathan, Celina, Christophe
+457;22828;Aviron Interactive;https://www.ycombinator.com/companies/22828;False;1,0;Andy
+458;22827;Promoted.ai;https://www.ycombinator.com/companies/22827;True;;
+459;22797;OctiFi;https://www.ycombinator.com/companies/22797;True;1,0;Ed, Amit
+460;22788;FanPlay Technologies;https://www.ycombinator.com/companies/22788;True;1,0;Pritesh, Bharat
+461;22780;Noya;https://www.ycombinator.com/companies/22780;False;1,0;Daniel, Josh
+462;22779;Axle Health;https://www.ycombinator.com/companies/22779;True;;
+463;22741;Askly;https://www.ycombinator.com/companies/22741;True;1,0;Abheek, Mahamad
+464;22710;CoVerified;https://www.ycombinator.com/companies/22710;;1,0;Frank, Brandon, Zoya, Carlos
+465;22707;Wyndly;https://www.ycombinator.com/companies/22707;True;1,0;Aakash, Manan
+466;22701;Queenly;https://www.ycombinator.com/companies/22701;True;0,0;Trisha, Kathy
+467;22700;Moichor;https://www.ycombinator.com/companies/22700;True;1,0;Matthew, Shevy, Thanh
+468;22675;Unfurl Inc.;https://www.ycombinator.com/companies/22675;False;1,0;Alex, Chris, Liudmila
+469;22668;Hapi;https://www.ycombinator.com/companies/22668;True;1,0;Billy, Dusko, Piero
+470;22666;Spokn;https://www.ycombinator.com/companies/22666;True;1,0;Fawzy, Mariel
+471;22640;Albedo;https://www.ycombinator.com/companies/22640;True;1,0;Topher, AJ, Winston
+472;22625;oxio;https://www.ycombinator.com/companies/22625;;1,0;Marc-André, Francis
+473;226;OwnLocal;https://www.ycombinator.com/companies/226;True;;
+474;22571;Gather;https://www.ycombinator.com/companies/22571;True;1,0;Kumail, Phillip
+475;22565;Gonddo;https://www.ycombinator.com/companies/22565;True;1,0;Guilherme, Rodrigo, Bruno
+476;22334;Gilgamesh Pharmaceuticals;https://www.ycombinator.com/companies/22334;True;;
+477;22327;Matter;https://www.ycombinator.com/companies/22327;True;;
+478;22323;CapWay;https://www.ycombinator.com/companies/22323;True;;
+479;22322;Toolbox;https://www.ycombinator.com/companies/22322;True;1,0;Wil, Jose
+480;22321;Verifiable;https://www.ycombinator.com/companies/22321;;0,0;Nick, Viv
+481;22319;SiPhox;https://www.ycombinator.com/companies/22319;True;1,0;Michael, Diedrik
+482;22307;Atmos;https://www.ycombinator.com/companies/22307;;1,0;Nicholas, Trent, Matthew, Austin
+483;22306;Revel Technologies;https://www.ycombinator.com/companies/22306;False;;
+484;22305;Future Fields;https://www.ycombinator.com/companies/22305;True;0,0;Jalene, Matt, Lejjy
+485;22303;Todos Comemos;https://www.ycombinator.com/companies/22303;True;1,0;Santiago, mateo
+486;22301;Quell;https://www.ycombinator.com/companies/22301;False;1,0;Cameron, Lorenzo, Douglas, Martin
+487;22294;Flat;https://www.ycombinator.com/companies/22294;True;1,0;Victor, bernardo
+488;22278;ChatPay;https://www.ycombinator.com/companies/22278;True;1,0;Arthur, Breno, Bernardo, Raphael
+489;22277;Heron Data;https://www.ycombinator.com/companies/22277;True;1,0;Johannes, Dominic, Jamie
+490;22273;Fieldguide;https://www.ycombinator.com/companies/22273;True;1,0;Jin, Chris
+491;22272;Finch;https://www.ycombinator.com/companies/22272;True;1,0;Jeremy, Ansel
+492;22269;Hellosaurus;https://www.ycombinator.com/companies/22269;True;;
+493;22268;Parade;https://www.ycombinator.com/companies/22268;True;;
+494;22267;Parrot Software 🦜;https://www.ycombinator.com/companies/22267;True;;
+495;22266;Zuddl;https://www.ycombinator.com/companies/22266;True;1,0;Bharath, Vedha
+496;22260;Clover;https://www.ycombinator.com/companies/22260;True;1,0;Adam, Tom
+497;22257;Inspectify;https://www.ycombinator.com/companies/22257;True;;
+498;22252;Reflect;https://www.ycombinator.com/companies/22252;True;;
+499;22251;Once;https://www.ycombinator.com/companies/22251;True;1,0;Arthur, Victor
+500;22249;Artifact;https://www.ycombinator.com/companies/22249;True;;
+501;22248;Mozart Data;https://www.ycombinator.com/companies/22248;True;1,0;Peter, Dan
+502;22247;Rally;https://www.ycombinator.com/companies/22247;True;;
+503;22246;Byte;https://www.ycombinator.com/companies/22246;;1,0;Safee
+504;22241;Warmly,;https://www.ycombinator.com/companies/22241;;;
+505;22238;Nestybox;https://www.ycombinator.com/companies/22238;True;;
+506;22228;Fancy;https://www.ycombinator.com/companies/22228;False;1,0;Arnie, Jack
+507;22218;Glimpse;https://www.ycombinator.com/companies/22218;True;1,0;Kushal, Akash, Anuj
+508;22207;inSoma Bio;https://www.ycombinator.com/companies/22207;;1,0;Ashutosh, Stefan
+509;22206;Vena Vitals;https://www.ycombinator.com/companies/22206;True;0,5;Michelle, Josh, Ray
+510;22205;MilkRun;https://www.ycombinator.com/companies/22205;True;;
+511;22196;MedPiper Technologies, Inc;https://www.ycombinator.com/companies/22196;True;1,0;Nitthin, Pranay
+512;22195;Lume Health;https://www.ycombinator.com/companies/22195;True;1,0;Christopher, Shantanu
+513;22184;Here;https://www.ycombinator.com/companies/22184;True;1,0;Jesse, Seth
+514;22174;Lendtable;https://www.ycombinator.com/companies/22174;False;0,0;Sheridan, Mitchell
+515;22152;Afriex;https://www.ycombinator.com/companies/22152;False;;
+516;22151;Backlot;https://www.ycombinator.com/companies/22151;False;1,0;Daniel
+517;22148;Spenmo;https://www.ycombinator.com/companies/22148;;1,0;Mohandass, Isaq
+518;22141;SafeBase;https://www.ycombinator.com/companies/22141;True;1,0;Adar, Stan, Al
+519;22131;DraftWise;https://www.ycombinator.com/companies/22131;False;1,0;Emre, Ozan, James
+520;22108;Ready;https://www.ycombinator.com/companies/22108;True;1,0;Mike, Jase
+521;22106;Letter;https://www.ycombinator.com/companies/22106;True;;
+522;22101;Together Video Chat;https://www.ycombinator.com/companies/22101;False;;
+523;22092;SockSoho;https://www.ycombinator.com/companies/22092;;0,5;Pritika, Simarpreet
+524;22091;Supabase;https://www.ycombinator.com/companies/22091;False;1,0;Paul, Anthony
+525;22088;CarbonChain;https://www.ycombinator.com/companies/22088;True;1,0;Adam, Yury, Roheet, Jeremiah
+526;22084;Sutra;https://www.ycombinator.com/companies/22084;True;;
+527;22083;Henry;https://www.ycombinator.com/companies/22083;True;1,0;Manuel, Martin, Antonio, Luz, Leonardo
+528;22080;Orange Health;https://www.ycombinator.com/companies/22080;True;;
+529;22079;Maytana;https://www.ycombinator.com/companies/22079;;1,0;Mokhtar
+530;22077;Akiflow;https://www.ycombinator.com/companies/22077;True;1,0;Sebastiano, Nunzio, Nicola
+531;22076;Sidekick;https://www.ycombinator.com/companies/22076;False;1,0;Andy, Greg, Arthur, Howard
+532;22075;PANADATA;https://www.ycombinator.com/companies/22075;True;;
+533;22063;Cohere;https://www.ycombinator.com/companies/22063;;1,0;Yunyu, Rahul, Jason
+534;22062;Minimum;https://www.ycombinator.com/companies/22062;True;1,0;Freddie, Chris, Freddie
+535;22055;Drapr;https://www.ycombinator.com/companies/22055;True;1,0;Richard, Will, David
+536;22054;Farel;https://www.ycombinator.com/companies/22054;True;1,0;Askhat
+537;22053;Hotplate;https://www.ycombinator.com/companies/22053;True;1,0;Ben, Andy, Rishi
+538;22052;OneKey;https://www.ycombinator.com/companies/22052;True;1,0;Christophe, Ulysse
+539;22051;Papercups;https://www.ycombinator.com/companies/22051;True;;
+540;22050;Jika;https://www.ycombinator.com/companies/22050;;;
+541;22049;Virtually;https://www.ycombinator.com/companies/22049;True;1,0;Ish
+542;22048;Scrimba;https://www.ycombinator.com/companies/22048;True;;
+543;22047;TyltGO;https://www.ycombinator.com/companies/22047;True;1,0;Aaron, Jaden
+544;22046;Oco Meals;https://www.ycombinator.com/companies/22046;True;1,0;Kenton, Anson
+545;22044;Liyfe;https://www.ycombinator.com/companies/22044;True;0,0;Sherry, Lily
+546;22043;Kingdom Supercultures;https://www.ycombinator.com/companies/22043;True;;
+547;22037;Tella;https://www.ycombinator.com/companies/22037;;1,0;Grant, Michiel
+548;22033;Plum Mail;https://www.ycombinator.com/companies/22033;True;1,0;Peter, Richard
+549;22026;Mozper;https://www.ycombinator.com/companies/22026;True;1,0;Yael, Pablo, Gabriel
+550;22022;Memberstack;https://www.ycombinator.com/companies/22022;True;;
+551;22021;Mailwarm;https://www.ycombinator.com/companies/22021;True;1,0;Amine, Gonzague
+552;22008;Aquarium Learning;https://www.ycombinator.com/companies/22008;True;1,0;Peter, Quinn
+553;22007;Piepacker;https://www.ycombinator.com/companies/22007;True;1,0;Benjamin, Jules
+554;22004;Notabene;https://www.ycombinator.com/companies/22004;True;0,0;Pelle, Andres, Ania, Alice
+555;22003;Decentro;https://www.ycombinator.com/companies/22003;True;1,0;Rohit
+556;22002;Bikayi;https://www.ycombinator.com/companies/22002;True;0,0;Sonakshi, ASHUTOSH
+557;22001;PolyOps;https://www.ycombinator.com/companies/22001;True;1,0;Manav, Scott
+558;21999;In Stock;https://www.ycombinator.com/companies/21999;False;;
+559;21998;WareIQ;https://www.ycombinator.com/companies/21998;True;;
+560;21997;Clew;https://www.ycombinator.com/companies/21997;True;;
+561;21996;Plerk;https://www.ycombinator.com/companies/21996;False;1,0;Angel, Jose, Miguel
+562;21993;Hyper Online;https://www.ycombinator.com/companies/21993;True;1,0;Aaron
+563;21988;Balance;https://www.ycombinator.com/companies/21988;True;1,0;Bar, Yoni
+564;21986;Vitable Health;https://www.ycombinator.com/companies/21986;True;;
+565;21985;Batch;https://www.ycombinator.com/companies/21985;True;1,0;Daniel, Ustin
+566;21984;Oico;https://www.ycombinator.com/companies/21984;True;1,0;Pedro, Pedro
+567;21979;Statiq.;https://www.ycombinator.com/companies/21979;True;;
+568;21969;NeXtera Robotics;https://www.ycombinator.com/companies/21969;False;;
+569;21963;Justo;https://www.ycombinator.com/companies/21963;True;1,0;Nicolás, Rodrigo
+570;21962;Hellometer;https://www.ycombinator.com/companies/21962;True;1,0;Alexander
+571;21959;Stacker;https://www.ycombinator.com/companies/21959;True;;
+572;21958;Tappity;https://www.ycombinator.com/companies/21958;True;;
+573;21957;KeyDB;https://www.ycombinator.com/companies/21957;False;;
+574;21956;ZipSchool;https://www.ycombinator.com/companies/21956;True;0,0;Farza
+575;21950;Yotta Savings;https://www.ycombinator.com/companies/21950;False;;
+576;21949;Mesh;https://www.ycombinator.com/companies/21949;True;1,0;Gaurav, Saurabh, Rahul
+577;21947;Daybreak Health;https://www.ycombinator.com/companies/21947;True;1,0;Alex, Luke, Sid
+578;21932;Biocogniv;https://www.ycombinator.com/companies/21932;False;1,0;Artur
+579;21930;Osmind;https://www.ycombinator.com/companies/21930;True;;
+580;21917;Vectrix;https://www.ycombinator.com/companies/21917;True;1,0;Alex, Matthew, Corey
+581;21916;MarketForce 360;https://www.ycombinator.com/companies/21916;True;1,0;Tesh, Mesongo
+582;21915;Atomic;https://www.ycombinator.com/companies/21915;True;;
+583;21914;Bits;https://www.ycombinator.com/companies/21914;;1,0;Faisal
+584;21909;Opvia;https://www.ycombinator.com/companies/21909;False;1,0;William, Will
+585;21906;LayerCI;https://www.ycombinator.com/companies/21906;True;1,0;Colin, Lyn
+586;21902;BLISSWAY;https://www.ycombinator.com/companies/21902;True;1,0;Felipe, Francisco
+587;21901;Workbase;https://www.ycombinator.com/companies/21901;True;;
+588;21900;Omni;https://www.ycombinator.com/companies/21900;False;;
+589;21898;Cradle;https://www.ycombinator.com/companies/21898;True;1,0;Gaurav, Siddhartha
+590;21897;Arist;https://www.ycombinator.com/companies/21897;True;;
+591;21896;TANGObuilder;https://www.ycombinator.com/companies/21896;True;;
+592;21895;ilk;https://www.ycombinator.com/companies/21895;True;;
+593;21894;Humanloop;https://www.ycombinator.com/companies/21894;True;1,0;Jordan, Raza, Peter
+594;21886;Minimall;https://www.ycombinator.com/companies/21886;True;0,5;Anne, Didier
+595;21885;BlaBla EdTech;https://www.ycombinator.com/companies/21885;False;1,0;Angelo, Xianxian
+596;21883;Speedscale;https://www.ycombinator.com/companies/21883;True;1,0;Ken, Nate, Matthew
+597;21882;CoreCare;https://www.ycombinator.com/companies/21882;True;1,0;Dennis, Travis, Mehrdad
+598;21864;Farmako Healthcare;https://www.ycombinator.com/companies/21864;True;1,0;Aman, Kaishu
+599;21863;BukuWarung;https://www.ycombinator.com/companies/21863;True;1,0;Chinmay, Abhinay
+600;21858;Kosmos;https://www.ycombinator.com/companies/21858;True;1,0;Ivan, Kevin
+601;21857;Hypotenuse;https://www.ycombinator.com/companies/21857;True;1,0;Joshua
+602;21856;Charityvest;https://www.ycombinator.com/companies/21856;True;1,0;Ashby, Jon, Stephen
+603;21855;Atomized;https://www.ycombinator.com/companies/21855;True;;
+604;21852;Known Medicine;https://www.ycombinator.com/companies/21852;False;0,0;Andrea, Katie-Rose
+605;21848;GitDuck;https://www.ycombinator.com/companies/21848;True;;
+606;21847;Electry;https://www.ycombinator.com/companies/21847;False;1,0;Konrad, Julian
+607;21839;Kuleana;https://www.ycombinator.com/companies/21839;True;1,0;Sònia, Jacek
+608;21831;Pave;https://www.ycombinator.com/companies/21831;False;;
+609;21829;Jumpstart;https://www.ycombinator.com/companies/21829;False;1,0;Aldrin, Paul
+610;21828;Explorex (Formerly Eatable);https://www.ycombinator.com/companies/21828;True;;
+611;21827;Strive School;https://www.ycombinator.com/companies/21827;True;1,0;Diego, Tobia
+612;21817;Volopay;https://www.ycombinator.com/companies/21817;True;1,0;Rajesh, Rajith
+613;21816;VenoStent;https://www.ycombinator.com/companies/21816;True;1,0;Tim, Geoffrey
+614;21814;Queue;https://www.ycombinator.com/companies/21814;True;1,0;Masud, Jean-Philippe
+615;21813;Nototo;https://www.ycombinator.com/companies/21813;False;;
+616;21812;Safepay;https://www.ycombinator.com/companies/21812;False;1,0;Raza, Ziyad
+617;21802;Rume;https://www.ycombinator.com/companies/21802;False;;
+618;21800;Seam;https://www.ycombinator.com/companies/21800;True;1,0;Sy, Dawn
+619;21799;Conta Simples;https://www.ycombinator.com/companies/21799;True;1,0;Ricardo, Fernando, Rodrigo
+620;21795;QuestDB;https://www.ycombinator.com/companies/21795;True;1,0;Nicolas, Vlad
+621;21794;Synth;https://www.ycombinator.com/companies/21794;True;1,0;Damien, Nodar, Christos
+622;21793;Finmark;https://www.ycombinator.com/companies/21793;True;1,0;Rami, Greg, Jeremy
+623;21792;RingMD;https://www.ycombinator.com/companies/21792;False;1,0;Justin
+624;21791;AtoB;https://www.ycombinator.com/companies/21791;True;0,5;Harshita, Vignan, Ravi
+625;21790;Dripos;https://www.ycombinator.com/companies/21790;True;1,0;Avery, Jack
+626;21789;Gather;https://www.ycombinator.com/companies/21789;True;1,0;Alex, Brooks, John
+627;21787;Ribbon;https://www.ycombinator.com/companies/21787;True;;
+628;21784;Blue Onion Labs;https://www.ycombinator.com/companies/21784;False;0,0;Lyndsey, Manav, Charles
+629;21782;Hubble;https://www.ycombinator.com/companies/21782;False;1,0;Hamzah, Oliver
+630;21781;Datafold;https://www.ycombinator.com/companies/21781;True;;
+631;21777;Depict.ai;https://www.ycombinator.com/companies/21777;True;1,0;Oliver, Anton
+632;21772;inFeedo;https://www.ycombinator.com/companies/21772;True;1,0;Tanmaya, Varun
+633;21771;Bandit ML;https://www.ycombinator.com/companies/21771;;1,0;Edoardo, Joseph, Lionel
+634;21770;SuperTokens;https://www.ycombinator.com/companies/21770;True;1,0;Rishabh, Advait
+635;21769;Roboflow;https://www.ycombinator.com/companies/21769;True;;
+636;21768;Jeeves;https://www.ycombinator.com/companies/21768;False;;
+637;21766;DigitalBrain;https://www.ycombinator.com/companies/21766;True;1,0;Kesava, Dmitry
+638;21737;LSK Technologies;https://www.ycombinator.com/companies/21737;;0,0;Seray, Livia
+639;21720;Evergreen;https://www.ycombinator.com/companies/21720;;1,0;Lu, Rujul
+640;21;Tap to Learn;https://www.ycombinator.com/companies/21;True;1,0;Priyanthy, Sreejit, Avinash, Aamir, Roby
+641;2037;Kunduz;https://www.ycombinator.com/companies/2037;True;;
+642;2036;ARI (Augmented Radar Imaging);https://www.ycombinator.com/companies/2036;True;1,0;Victor
+643;2034;Aesthetic;https://www.ycombinator.com/companies/2034;True;;
+644;2033;Kinside;https://www.ycombinator.com/companies/2033;True;;
+645;2031;Gerostate Alpha;https://www.ycombinator.com/companies/2031;;1,0;Gordon, Mark, Simon
+646;2030;Culdesac;https://www.ycombinator.com/companies/2030;False;;
+647;2029;Circumvent;https://www.ycombinator.com/companies/2029;;;
+648;2028;Rejuvenation Technologies Inc.;https://www.ycombinator.com/companies/2028;False;;
+649;2027;Dorian therapeutics;https://www.ycombinator.com/companies/2027;;0,0;Maddalena, Benedetta
+650;2026;iLabService;https://www.ycombinator.com/companies/2026;False;1,0;Kenny, Jing, Anhuan
+651;2025;LemonBox;https://www.ycombinator.com/companies/2025;True;0,6666666666666666;Derek, Meng, Hang
+652;2024;Enveritas;https://www.ycombinator.com/companies/2024;;1,0;Carl, David
+653;2023;SPATE;https://www.ycombinator.com/companies/2023;False;1,0;Yarden, Olivier
+654;2022;Oxygen;https://www.ycombinator.com/companies/2022;;;
+655;2020;Mark Cuban Cost Plus Drug Company, PBC;https://www.ycombinator.com/companies/2020;;1,0;Alexander
+656;2019;JuziBot;https://www.ycombinator.com/companies/2019;True;1,0;Yuan, Huan, Jiarui
+657;2018;AnnieCannons;https://www.ycombinator.com/companies/2018;True;0,0;Jessica, Laura
+658;2017;Leena AI;https://www.ycombinator.com/companies/2017;True;1,0;Mayank, Adit, Anand
+659;2015;Synkrino Biotherapeutics;https://www.ycombinator.com/companies/2015;;1,0;Jason, David
+660;2014;Mutiny;https://www.ycombinator.com/companies/2014;;;
+661;2013;Grin;https://www.ycombinator.com/companies/2013;True;;
+662;2012;Cowrywise;https://www.ycombinator.com/companies/2012;True;1,0;Razaq, Edward
+663;2011;BuyCoins;https://www.ycombinator.com/companies/2011;False;;
+664;201;WorkFlowy;https://www.ycombinator.com/companies/201;True;1,0;Jesse
+665;2009;Kobo360;https://www.ycombinator.com/companies/2009;True;1,0;Ife, Obi
+666;2008;Goodly;https://www.ycombinator.com/companies/2008;;1,0;Gregory, Hemant
+667;2006;BrainHi;https://www.ycombinator.com/companies/2006;True;1,0;Israel, Emmanuel
+668;2005;Four Growers;https://www.ycombinator.com/companies/2005;True;1,0;Dan, Brandon
+669;2004;SkydropX;https://www.ycombinator.com/companies/2004;True;1,0;Tavo, Armando
+670;2003;Eva Center;https://www.ycombinator.com/companies/2003;True;1,0;Raymundo, Julián, Fernando, Antonio
+671;2002;Nova;https://www.ycombinator.com/companies/2002;True;;
+672;2001;Shelf Engine;https://www.ycombinator.com/companies/2001;True;1,0;Bede, Stefan
+673;200;inDinero;https://www.ycombinator.com/companies/200;True;0,5;Andy, Jessica
+674;1998;Nestor;https://www.ycombinator.com/companies/1998;True;0,0;Bogdan, Raluca
+675;1995;ZiffyHomes;https://www.ycombinator.com/companies/1995;True;1,0;Saurabh, Sanchal
+676;1994;Bot MD;https://www.ycombinator.com/companies/1994;True;1,0;Dorothea, Yanchuan
+677;19932;Jitsu;https://www.ycombinator.com/companies/19932;True;1,0;Vladimir, Peter
+678;19925;Jemi;https://www.ycombinator.com/companies/19925;True;1,0;Jason, Annie
+679;1992;Fintual;https://www.ycombinator.com/companies/1992;False;1,0;Pedro, Agustín, Omar, Andres
+680;1991;Names & Faces;https://www.ycombinator.com/companies/1991;False;1,0;Paul, Richard
+681;1990;Tenderd;https://www.ycombinator.com/companies/1990;True;;
+682;19890;Ukama;https://www.ycombinator.com/companies/19890;;;
+683;1989;Calii;https://www.ycombinator.com/companies/1989;True;1,0;Maurizio, David
+684;19888;Perch;https://www.ycombinator.com/companies/19888;False;;
+685;1988;Prodigal;https://www.ycombinator.com/companies/1988;True;1,0;Shantanu, Sangram
+686;1984;Stem Sugar;https://www.ycombinator.com/companies/1984;;1,0;Tom, Ruben
+687;198;Docker;https://www.ycombinator.com/companies/198;True;1,0;Solomon
+688;1979;Canary Technologies;https://www.ycombinator.com/companies/1979;True;1,0;Harman, SJ
+689;1978;Papa;https://www.ycombinator.com/companies/1978;True;1,0;Andrew, Alfredo
+690;1977;MentalHappy;https://www.ycombinator.com/companies/1977;True;0,0;Tamar
+691;1975;hypcloud;https://www.ycombinator.com/companies/1975;;;
+692;1971;demonpore;https://www.ycombinator.com/companies/1971;True;;
+693;1970;Alpha Vantage;https://www.ycombinator.com/companies/1970;True;1,0;Olivier, Steve
+694;1969;BlueCargo;https://www.ycombinator.com/companies/1969;True;0,0;Alexandra, Laura
+695;1968;Levain Games;https://www.ycombinator.com/companies/1968;False;1,0;Matthew
+696;1967;Cytera CellWorks;https://www.ycombinator.com/companies/1967;True;1,0;Ali, Ignacio
+697;1966;HappiLabs;https://www.ycombinator.com/companies/1966;True;1,0;Tom
+698;1965;Pine Park Health;https://www.ycombinator.com/companies/1965;;0,0;Yingzhe, Yoitsu, George
+699;1964;CB Therapeutics;https://www.ycombinator.com/companies/1964;True;1,0;Jacob, Sher
+700;1963;Rain Neuromorphics;https://www.ycombinator.com/companies/1963;True;1,0;Juan, Gordon, Jack
+701;1961;DreamCraft;https://www.ycombinator.com/companies/1961;False;;
+702;1960;Ajaib;https://www.ycombinator.com/companies/1960;False;0,5;Anderson, Yada
+703;1959;Ubits;https://www.ycombinator.com/companies/1959;True;0,0;Marta, Julián
+704;1958;A La Couch;https://www.ycombinator.com/companies/1958;True;;
+705;1957;Quickchat;https://www.ycombinator.com/companies/1957;False;;
+706;1956;Regology;https://www.ycombinator.com/companies/1956;True;1,0;Pavan, Mukund
+707;1954;Outvote;https://www.ycombinator.com/companies/1954;True;;
+708;1951;Berbix;https://www.ycombinator.com/companies/1951;True;1,0;Steve, Eric
+709;1950;Corvus Robotics;https://www.ycombinator.com/companies/1950;True;0,0;Jackie, Jonathan
+710;1949;Scanwell Health;https://www.ycombinator.com/companies/1949;True;1,0;Stephen
+711;1947;OneGraph;https://www.ycombinator.com/companies/1947;True;1,0;Sean, Daniel
+712;1946;Easol;https://www.ycombinator.com/companies/1946;True;0,0;Ben, Lisa
+713;1945;Sterblue;https://www.ycombinator.com/companies/1945;True;1,0;Vincent, Nicolas, Geoffrey
+714;1943;Ixora;https://www.ycombinator.com/companies/1943;;0,5;Holly, Steven
+715;1942;Tall Poppy;https://www.ycombinator.com/companies/1942;True;1,0;Leigh, Logan
+716;1941;Highrise;https://www.ycombinator.com/companies/1941;False;1,0;Anton, Jimmy
+717;1940;Anima App;https://www.ycombinator.com/companies/1940;True;1,0;Or, Avishay, Michal
+718;1939;64x Bio;https://www.ycombinator.com/companies/1939;True;;
+719;1938;Savvy;https://www.ycombinator.com/companies/1938;;1,0;Jeremy, Matthew
+720;1936;Vimcal;https://www.ycombinator.com/companies/1936;False;;
+721;1935;Meru Health;https://www.ycombinator.com/companies/1935;True;1,0;Riku, Albert, Kristian
+722;1934;Paladin Drones;https://www.ycombinator.com/companies/1934;True;;
+723;1932;Radix Labs;https://www.ycombinator.com/companies/1932;;1,0;Dhasharath
+724;1931;Hepatx;https://www.ycombinator.com/companies/1931;True;1,0;Mark, Eric
+725;1930;The Good Food Institute;https://www.ycombinator.com/companies/1930;True;;
+726;1929;Rebellyous Foods;https://www.ycombinator.com/companies/1929;True;0,0;Christie
+727;1928;Spero Foods;https://www.ycombinator.com/companies/1928;True;;
+728;1927;AskMyClass;https://www.ycombinator.com/companies/1927;False;;
+729;1926;Medinas Health;https://www.ycombinator.com/companies/1926;True;1,0;Chloe, Jesse, Tim
+730;1925;Optic;https://www.ycombinator.com/companies/1925;True;1,0;Aidan
+731;1924;OpenPhone;https://www.ycombinator.com/companies/1924;False;;
+732;1923;College Pulse;https://www.ycombinator.com/companies/1923;True;1,0;Robin, Terren
+733;1922;Apprentice Health;https://www.ycombinator.com/companies/1922;True;1,0;Artur, Rajiv
+734;1918;JITX;https://www.ycombinator.com/companies/1918;;;
+735;1917;Inscribe;https://www.ycombinator.com/companies/1917;True;1,0;Conor, Ronan
+736;1916;Data Driven Bioscience;https://www.ycombinator.com/companies/1916;;1,0;Sandeep
+737;1914;Titan;https://www.ycombinator.com/companies/1914;True;1,0;Clayton, Joe, Max
+738;1912;Inokyo;https://www.ycombinator.com/companies/1912;;1,0;Tony
+739;1911;Contrast;https://www.ycombinator.com/companies/1911;False;1,0;Jono, Brendan
+740;1910;Activeloop;https://www.ycombinator.com/companies/1910;True;1,0;Davit
+741;1908;OpenWrench;https://www.ycombinator.com/companies/1908;True;;
+742;1907;RevenueCat;https://www.ycombinator.com/companies/1907;True;1,0;Jacob, Miguel
+743;1905;Xkit;https://www.ycombinator.com/companies/1905;True;1,0;Trey
+744;1904;FREY;https://www.ycombinator.com/companies/1904;False;1,0;Leif, Aidan, Erin
+745;1903;Federacy;https://www.ycombinator.com/companies/1903;True;;
+746;1902;Lowkey;https://www.ycombinator.com/companies/1902;False;1,0;Jesse
+747;1901;JetLenses;https://www.ycombinator.com/companies/1901;;1,0;Dhaivat
+748;1900;Satchel;https://www.ycombinator.com/companies/1900;;;
+749;1899;Dinesafe;https://www.ycombinator.com/companies/1899;True;;
+750;1898;Searchlight;https://www.ycombinator.com/companies/1898;;0,0;Anna, Kerry
+751;1897;numericcal, inc.;https://www.ycombinator.com/companies/1897;True;;
+752;1892;C16 Biosciences;https://www.ycombinator.com/companies/1892;True;0,0;David, Harry, Shara
+753;1891;Klarity;https://www.ycombinator.com/companies/1891;True;1,0;Andrew, Nischal
+754;1890;User Hero;https://www.ycombinator.com/companies/1890;False;0,0;Adam, Emilie
+755;1889;RealtyBits;https://www.ycombinator.com/companies/1889;True;;
+756;1888;Phiar;https://www.ycombinator.com/companies/1888;True;;
+757;1886;Honeylove;https://www.ycombinator.com/companies/1886;True;;
+758;1885;Penta Medical;https://www.ycombinator.com/companies/1885;False;;
+759;1884;Curebase;https://www.ycombinator.com/companies/1884;True;1,0;Tom
+760;1883;Allotrope Medical;https://www.ycombinator.com/companies/1883;True;;
+761;1882;Snackpass;https://www.ycombinator.com/companies/1882;True;1,0;Kevin, Jonathan, Jamie
+762;1880;Elpha;https://www.ycombinator.com/companies/1880;True;;
+763;188;AnyList;https://www.ycombinator.com/companies/188;False;1,0;Jeff, Jason
+764;1879;Repl.it;https://www.ycombinator.com/companies/1879;True;;
+765;1878;Swayable;https://www.ycombinator.com/companies/1878;False;0,0;James, Valerie
+766;1877;FidoCure®;https://www.ycombinator.com/companies/1877;True;1,0;Christina, Benjamin
+767;1876;Veriff;https://www.ycombinator.com/companies/1876;True;1,0;Janer, Kaarel
+768;1875;Aerones;https://www.ycombinator.com/companies/1875;True;1,0;Dainis, Janis
+769;1873;Synthetic Minds;https://www.ycombinator.com/companies/1873;;;
+770;1872;Super;https://www.ycombinator.com/companies/1872;True;1,0;Michael, Steven
+771;1871;Helloverify;https://www.ycombinator.com/companies/1871;True;1,0;Karan, Varun
+772;1870;Qulture.Rocks;https://www.ycombinator.com/companies/1870;True;1,0;Francisco
+773;187;DemandSphere;https://www.ycombinator.com/companies/187;True;1,0;Ray
+774;1869;Runa;https://www.ycombinator.com/companies/1869;True;0,0;Courtney
+775;1868;ErudiFi;https://www.ycombinator.com/companies/1868;True;;
+776;1867;CaptivateIQ;https://www.ycombinator.com/companies/1867;True;1,0;Mark, Conway, Hubert
+777;1866;Vena Medical;https://www.ycombinator.com/companies/1866;True;1,0;Phillip, Michael
+778;1865;Mind Emulation Foundation;https://www.ycombinator.com/companies/1865;;;
+779;1863;Anjuna;https://www.ycombinator.com/companies/1863;True;1,0;Yan, Ayal
+780;1861;Tarjimly;https://www.ycombinator.com/companies/1861;False;1,0;Atif
+781;1860;Callisto;https://www.ycombinator.com/companies/1860;True;;
+782;1858;Jido Maps;https://www.ycombinator.com/companies/1858;True;1,0;Mark, Jaeyong
+783;1856;Culture Biosciences;https://www.ycombinator.com/companies/1856;True;1,0;Matt, Will
+784;1855;Ben;https://www.ycombinator.com/companies/1855;True;1,0;Miguel, Alex
+785;1854;BUMP;https://www.ycombinator.com/companies/1854;True;1,0;Sam, Jack
+786;1852;Duet - Meet TikTokers;https://www.ycombinator.com/companies/1852;;;
+787;1849;ZBiotics;https://www.ycombinator.com/companies/1849;True;1,0;Zack, Stephen
+788;1847;ArchForm;https://www.ycombinator.com/companies/1847;True;;
+789;1844;OpenSea;https://www.ycombinator.com/companies/1844;True;;
+790;1842;AlgoSurg Inc;https://www.ycombinator.com/companies/1842;True;1,0;Vikas, Amit
+791;1841;Zyper;https://www.ycombinator.com/companies/1841;True;;
+792;1840;Memora Health;https://www.ycombinator.com/companies/1840;True;1,0;Kunaal, Nisarg, Manav
+793;1838;OSIMple;https://www.ycombinator.com/companies/1838;True;;
+794;1837;YouTeam;https://www.ycombinator.com/companies/1837;True;1,0;Yura, Nikita
+795;1836;Orangewood Labs;https://www.ycombinator.com/companies/1836;False;1,0;Akash, Abhinav, aditya
+796;1835;mojo;https://www.ycombinator.com/companies/1835;;1,0;Jean, Francescu
+797;1834;Aspire;https://www.ycombinator.com/companies/1834;True;0,0;Giovanni, Andrea
+798;1833;SafetyWing;https://www.ycombinator.com/companies/1833;True;1,0;Sondre, Sarah, Hans
+799;1832;Delphia;https://www.ycombinator.com/companies/1832;True;;
+800;1829;Quit Genius;https://www.ycombinator.com/companies/1829;True;1,0;Maroof, Yusuf, Sarim
+801;1827;SharpestMinds;https://www.ycombinator.com/companies/1827;False;1,0;Edouard, Jeremie
+802;1826;Volley;https://www.ycombinator.com/companies/1826;True;;
+803;1824;Naborly;https://www.ycombinator.com/companies/1824;False;1,0;Dylan
+804;1823;Vathys;https://www.ycombinator.com/companies/1823;True;1,0;Debabrata, Tapabrata
+805;1822;Station;https://www.ycombinator.com/companies/1822;True;;
+806;1819;Gainful;https://www.ycombinator.com/companies/1819;;;
+807;1818;Cognition IP;https://www.ycombinator.com/companies/1818;True;;
+808;1816;Lawyaw;https://www.ycombinator.com/companies/1816;True;1,0;Tucker
+809;1815;Players' Lounge;https://www.ycombinator.com/companies/1815;True;1,0;Austin, Dan, Zach
+810;1810;Treasury Prime;https://www.ycombinator.com/companies/1810;True;1,0;Chris, Jim
+811;181;Recurse Center;https://www.ycombinator.com/companies/181;False;1,0;David, Nicholas, Sonali
+812;1809;Juni Learning;https://www.ycombinator.com/companies/1809;True;0,0;Vivian, Ruby
+813;1808;Universe;https://www.ycombinator.com/companies/1808;True;;
+814;1805;Let's Do This;https://www.ycombinator.com/companies/1805;True;;
+815;1802;The Podcast App;https://www.ycombinator.com/companies/1802;True;;
+816;1801;Haiku;https://www.ycombinator.com/companies/1801;True;;
+817;1800;Supermedium;https://www.ycombinator.com/companies/1800;True;1,0;Diego
+818;1798;Tributi;https://www.ycombinator.com/companies/1798;True;;
+819;1797;Viaopt;https://www.ycombinator.com/companies/1797;;;
+820;1795;Sourcify;https://www.ycombinator.com/companies/1795;True;1,0;Nathan
+821;1794;Plexus;https://www.ycombinator.com/companies/1794;;;
+822;1793;Sqreen;https://www.ycombinator.com/companies/1793;True;;
+823;1792;Openland;https://www.ycombinator.com/companies/1792;True;1,0;Steve, Yury
+824;1791;Correlia Biosystems;https://www.ycombinator.com/companies/1791;True;1,0;Akwasi, Kursad, Samuel
+825;1790;BioRender;https://www.ycombinator.com/companies/1790;True;;
+826;1789;Evry Health;https://www.ycombinator.com/companies/1789;False;1,0;Chris, Mark, Jay
+827;1787;tEQuitable;https://www.ycombinator.com/companies/1787;True;0,0;Lisa
+828;1786;EnvKey;https://www.ycombinator.com/companies/1786;True;;
+829;1785;Meitre;https://www.ycombinator.com/companies/1785;False;1,0;Juan, Luis
+830;1784;Draftbit;https://www.ycombinator.com/companies/1784;True;1,0;Donald, Brian, Peter
+831;1783;LUS Brands;https://www.ycombinator.com/companies/1783;True;0,0;Sahar
+832;1782;NewCraft;https://www.ycombinator.com/companies/1782;False;1,0;Cameron
+833;1781;Vanta;https://www.ycombinator.com/companies/1781;True;;
+834;1779;Dear Brightly;https://www.ycombinator.com/companies/1779;True;;
+835;1778;Nuvocargo;https://www.ycombinator.com/companies/1778;True;;
+836;1777;AesculaTech;https://www.ycombinator.com/companies/1777;True;0,0;Niki
+837;1776;Curious Fictions;https://www.ycombinator.com/companies/1776;False;;
+838;1775;Reverie Labs;https://www.ycombinator.com/companies/1775;True;1,0;Ankit, Jonah
+839;1774;Glimpse K12;https://www.ycombinator.com/companies/1774;True;0,0;Adam, Nicole
+840;1773;Persephone Biosciences;https://www.ycombinator.com/companies/1773;True;0,5;Stephanie, Stephen
+841;1772;Tingles;https://www.ycombinator.com/companies/1772;True;1,0;Gasper, Miha
+842;1769;Promise;https://www.ycombinator.com/companies/1769;True;;
+843;1768;Tradewind BioScience;https://www.ycombinator.com/companies/1768;True;;
+844;1767;Nectome;https://www.ycombinator.com/companies/1767;True;;
+845;1766;CodeStream;https://www.ycombinator.com/companies/1766;True;1,0;Peter, Claudio
+846;1764;Skip;https://www.ycombinator.com/companies/1764;True;1,0;Matt, Sanjay, Mike
+847;1763;Biobot Analytics;https://www.ycombinator.com/companies/1763;True;0,0;Newsha, Mariana
+848;1762;onederful;https://www.ycombinator.com/companies/1762;True;0,0;Karen, Alex
+849;1761;NEXGENT;https://www.ycombinator.com/companies/1761;;1,0;Jacob, Terry
+850;1760;Macromoltek;https://www.ycombinator.com/companies/1760;True;0,0;Monica, Susana
+851;176;Chartio;https://www.ycombinator.com/companies/176;True;;
+852;1759;Patchd Medical;https://www.ycombinator.com/companies/1759;True;;
+853;1757;Avro Life Science;https://www.ycombinator.com/companies/1757;;;
+854;1756;Tipe;https://www.ycombinator.com/companies/1756;True;1,0;Scott, Michael, Patrick
+855;1755;Airdeploy;https://www.ycombinator.com/companies/1755;;;
+856;1753;Sheertex;https://www.ycombinator.com/companies/1753;False;;
+857;1752;Simetrik;https://www.ycombinator.com/companies/1752;True;1,0;Alejandro, Santiago
+858;1750;Key Values;https://www.ycombinator.com/companies/1750;;;
+859;1749;CoinTracker;https://www.ycombinator.com/companies/1749;True;1,0;Chandan, Jon
+860;1748;Slite;https://www.ycombinator.com/companies/1748;False;;
+861;1747;Glowing.io;https://www.ycombinator.com/companies/1747;True;1,0;Parag, Jasen
+862;1746;Sixfold Bioscience;https://www.ycombinator.com/companies/1746;True;0,0;George, Anna
+863;1745;Worklytics;https://www.ycombinator.com/companies/1745;True;1,0;Erik, Philip
+864;1744;Fondo;https://www.ycombinator.com/companies/1744;False;;
+865;1743;Bear Flag Robotics;https://www.ycombinator.com/companies/1743;True;1,0;Igino, Aubrey
+866;1741;Pulse;https://www.ycombinator.com/companies/1741;True;1,0;Mayank, Anand
+867;1739;Observant;https://www.ycombinator.com/companies/1739;;1,0;Daniel, Dave
+868;1736;Portal;https://www.ycombinator.com/companies/1736;True;1,0;Marlon, Neil
+869;1735;Ovipost;https://www.ycombinator.com/companies/1735;True;0,0;Trina
+870;1734;Proof;https://www.ycombinator.com/companies/1734;;1,0;Chris, John, Dave
+871;1733;California Dreamin;https://www.ycombinator.com/companies/1733;False;1,0;Peter, Amy
+872;1731;Blueberry Medical;https://www.ycombinator.com/companies/1731;False;1,0;Harrison, Sean
+873;1730;Beanstalk;https://www.ycombinator.com/companies/1730;True;1,0;Jack, Mike
+874;1728;Torch;https://www.ycombinator.com/companies/1728;;1,0;Keegan, Cameron
+875;1727;Quantstamp;https://www.ycombinator.com/companies/1727;True;1,0;Richard, Steven
+876;1725;Precious;https://www.ycombinator.com/companies/1725;True;1,0;Chris, Daniel
+877;1724;Sketchbox;https://www.ycombinator.com/companies/1724;True;1,0;Joe, Peter
+878;1723;Proven;https://www.ycombinator.com/companies/1723;False;;
+879;1721;Lucy Goods, Inc;https://www.ycombinator.com/companies/1721;True;;
+880;172;StoryWorth;https://www.ycombinator.com/companies/172;True;;
+881;1715;PullRequest;https://www.ycombinator.com/companies/1715;True;0,0;Lyal
+882;1714;Dharma Labs;https://www.ycombinator.com/companies/1714;False;1,0;Nadav
+883;171;ZeroCater;https://www.ycombinator.com/companies/171;True;;
+884;1705;Gustav;https://www.ycombinator.com/companies/1705;True;1,0;Jan, Benjamin, Daniel
+885;1703;FollowUpThen;https://www.ycombinator.com/companies/1703;True;;
+886;1702;Thematic;https://www.ycombinator.com/companies/1702;True;1,0;Alyona, Nathan
+887;1701;Bumpline;https://www.ycombinator.com/companies/1701;;0,5;Amit, Puja
+888;1700;10 By 10;https://www.ycombinator.com/companies/1700;True;;
+889;170;DrChrono;https://www.ycombinator.com/companies/170;True;1,0;Daniel, Michael
+890;1698;Social Construct;https://www.ycombinator.com/companies/1698;True;;
+891;1696;Forever Labs;https://www.ycombinator.com/companies/1696;False;1,0;Edward, Steven, Mark
+892;1693;Just Appraised;https://www.ycombinator.com/companies/1693;True;1,0;Imran, Travis
+893;1692;Routable;https://www.ycombinator.com/companies/1692;True;1,0;Omri, Tom
+894;1691;Templarbit;https://www.ycombinator.com/companies/1691;True;;
+895;1690;Goodcover;https://www.ycombinator.com/companies/1690;True;1,0;Christopher, Daniel
+896;1688;Modern Fertility;https://www.ycombinator.com/companies/1688;True;0,0;Carly, Afton
+897;1687;AssemblyAI;https://www.ycombinator.com/companies/1687;True;1,0;Dylan
+898;1685;Polly;https://www.ycombinator.com/companies/1685;True;;
+899;1684;Zendar;https://www.ycombinator.com/companies/1684;False;1,0;Vinayak, Jimmy
+900;1683;Commissary Club (formerly 70 Million Jobs);https://www.ycombinator.com/companies/1683;True;;
+901;1682;Officely (formerly HotelFlex);https://www.ycombinator.com/companies/1682;False;1,0;Max, Rich
+902;1678;Headstart;https://www.ycombinator.com/companies/1678;True;1,0;Nicholas
+903;1677;muzmatch;https://www.ycombinator.com/companies/1677;True;;
+904;1676;CureSkin;https://www.ycombinator.com/companies/1676;False;1,0;Guna, Rama
+905;1674;Eduflow;https://www.ycombinator.com/companies/1674;True;1,0;Malthe, Simon, David
+906;1673;OneLocal;https://www.ycombinator.com/companies/1673;True;;
+907;1672;Fastpad;https://www.ycombinator.com/companies/1672;True;1,0;Sanat
+908;1671;Sourceress;https://www.ycombinator.com/companies/1671;;;
+909;1670;LotusPay;https://www.ycombinator.com/companies/1670;False;;
+910;1669;Sunu;https://www.ycombinator.com/companies/1669;True;1,0;Fernando, Cuauhtli, Marco
+911;1668;bxblue;https://www.ycombinator.com/companies/1668;True;1,0;👨‍💻Fabricio, Roberto, Gustavo
+912;1666;Percept.AI;https://www.ycombinator.com/companies/1666;True;1,0;Deyang, Shuo, Zhou
+913;1665;Oncobox;https://www.ycombinator.com/companies/1665;True;1,0;Anton, Andrew
+914;1664;Tesseract;https://www.ycombinator.com/companies/1664;True;1,0;Erik, Jeff, Jake
+915;1663;D-ID;https://www.ycombinator.com/companies/1663;True;1,0;Sella, Eliran, Gil
+916;1662;Kestrel Materials;https://www.ycombinator.com/companies/1662;True;1,0;Brent
+917;1659;Modular Science;https://www.ycombinator.com/companies/1659;;1,0;Peter
+918;1658;Flowspace;https://www.ycombinator.com/companies/1658;True;1,0;Ben, Jason
+919;1657;Honeydue;https://www.ycombinator.com/companies/1657;True;;
+920;1656;Guilded;https://www.ycombinator.com/companies/1656;True;0,0;Eli
+921;1655;PreDxion Bio;https://www.ycombinator.com/companies/1655;True;1,0;Walker, Timothy
+922;1652;Piggy;https://www.ycombinator.com/companies/1652;True;1,0;Kunal, Nikhil, Ankush
+923;1651;Airthium;https://www.ycombinator.com/companies/1651;False;;
+924;1647;tpaga;https://www.ycombinator.com/companies/1647;True;1,0;Andres, Sebastian, Juan
+925;1646;Rev Genomics;https://www.ycombinator.com/companies/1646;True;1,0;Cody, Bertrand
+926;1645;Pyka;https://www.ycombinator.com/companies/1645;True;1,0;Kyle, Michael, Chuma, Nathan
+927;1644;Indivio;https://www.ycombinator.com/companies/1644;True;1,0;Josh, Kenji
+928;1643;Entocycle;https://www.ycombinator.com/companies/1643;True;;
+929;1642;HelpWear;https://www.ycombinator.com/companies/1642;;;
+930;164;Mino Games;https://www.ycombinator.com/companies/164;True;;
+931;1639;dahmakan;https://www.ycombinator.com/companies/1639;True;0,5;Chris, Jessica, Jonathan
+932;1638;Koko;https://www.ycombinator.com/companies/1638;False;;
+933;1637;Slik;https://www.ycombinator.com/companies/1637;True;1,0;Soroush, Stefan
+934;1636;Rabbet;https://www.ycombinator.com/companies/1636;True;1,0;Andrew, Will
+935;1631;Wildfire;https://www.ycombinator.com/companies/1631;True;1,0;Hriday, Vinay, Jay
+936;1630;Paladin Cyber;https://www.ycombinator.com/companies/1630;True;1,0;Han, Daniel
+937;1629;Prelim;https://www.ycombinator.com/companies/1629;True;1,0;Heang, Chris
+938;1628;Covetly;https://www.ycombinator.com/companies/1628;True;1,0;Reid
+939;1627;Semantix;https://www.ycombinator.com/companies/1627;;;
+940;1621;Advano;https://www.ycombinator.com/companies/1621;True;1,0;Shiva, Alexander
+941;1620;Enzyme;https://www.ycombinator.com/companies/1620;True;1,0;Jared, Jacob
+942;1619;Carrot Fertility;https://www.ycombinator.com/companies/1619;False;;
+943;1618;Relationship Hero;https://www.ycombinator.com/companies/1618;False;1,0;Liron, Lior
+944;1615;CocuSocial;https://www.ycombinator.com/companies/1615;True;1,0;Billy, Helen
+945;1614;ThereCraft;https://www.ycombinator.com/companies/1614;;0,0;Star
+946;1611;SafeButler;https://www.ycombinator.com/companies/1611;False;;
+947;1610;Darmiyan;https://www.ycombinator.com/companies/1610;False;0,0;Padideh, Thomas, Kaveh
+948;1609;Nimble;https://www.ycombinator.com/companies/1609;True;;
+949;1608;Roofr;https://www.ycombinator.com/companies/1608;True;;
+950;1604;Pathrise;https://www.ycombinator.com/companies/1604;True;;
+951;1602;UpCodes;https://www.ycombinator.com/companies/1602;True;1,0;Garrett, Scott
+952;1601;Fat Llama;https://www.ycombinator.com/companies/1601;True;0,5;Rosie, Chaz, Owen
+953;1600;Helium Health;https://www.ycombinator.com/companies/1600;True;1,0;Adegoke, Dimeji
+954;160;Close;https://www.ycombinator.com/companies/160;True;1,0;Steli, Anthony, Thomas
+955;16;Medigram;https://www.ycombinator.com/companies/16;True;;
+956;1599;Fam;https://www.ycombinator.com/companies/1599;True;1,0;Michael, Eddie
+957;1598;Ribbon Health;https://www.ycombinator.com/companies/1598;True;;
+958;1596;Releaf;https://www.ycombinator.com/companies/1596;True;1,0;Uzoma, Kenna, Isaiah
+959;1595;Leon & George;https://www.ycombinator.com/companies/1595;True;1,0;Nicolas, Ron
+960;1593;Origin Renovation;https://www.ycombinator.com/companies/1593;True;1,0;Casey, Anthony
+961;1592;Feather;https://www.ycombinator.com/companies/1592;True;1,0;Jay
+962;1588;AutoHub;https://www.ycombinator.com/companies/1588;True;;
+963;1587;VergeSense;https://www.ycombinator.com/companies/1587;True;1,0;Kelby, Dan
+964;1585;Sunfolding;https://www.ycombinator.com/companies/1585;True;;
+965;1584;Long Term Stock Exchange;https://www.ycombinator.com/companies/1584;True;;
+966;1583;Skyways;https://www.ycombinator.com/companies/1583;True;1,0;Charles, Chris
+967;1581;Sigma Genetics;https://www.ycombinator.com/companies/1581;True;1,0;Chris
+968;1578;Elucd;https://www.ycombinator.com/companies/1578;True;;
+969;1576;Jerry, Inc.;https://www.ycombinator.com/companies/1576;True;0,0;Art, Musawir, Lina
+970;1575;ACLU;https://www.ycombinator.com/companies/1575;True;;
+971;1573;Humi;https://www.ycombinator.com/companies/1573;True;1,0;Simon, Kevin, Matt, Drew
+972;1560;Helix Nanotechnologies;https://www.ycombinator.com/companies/1560;True;1,0;Nikolai, Hannu
+973;1559;Peer5;https://www.ycombinator.com/companies/1559;True;;
+974;1557;Mirror AI;https://www.ycombinator.com/companies/1557;True;;
+975;1555;Dost Education;https://www.ycombinator.com/companies/1555;True;0,0;Sindhuja, Sneha
+976;1554;Lively, Inc.;https://www.ycombinator.com/companies/1554;True;1,0;Alex, Shobin
+977;1552;The Centre for Effective Altruism;https://www.ycombinator.com/companies/1552;False;;
+978;1551;Indee Labs;https://www.ycombinator.com/companies/1551;False;;
+979;1549;KidPass;https://www.ycombinator.com/companies/1549;True;1,0;Chhay, Aaron, Solomon
+980;1540;Credy;https://www.ycombinator.com/companies/1540;True;1,0;Pratish, Harshit
+981;1539;Playment;https://www.ycombinator.com/companies/1539;True;1,0;Ajinkya, Akshay, Siddharth
+982;1535;Wifi Dabba, Inc.;https://www.ycombinator.com/companies/1535;True;;
+983;1533;Marketfox;https://www.ycombinator.com/companies/1533;True;;
+984;1532;Delee;https://www.ycombinator.com/companies/1532;False;1,0;Liza, Alejandro, Juan
+985;1530;NanoNets;https://www.ycombinator.com/companies/1530;True;;
+986;1528;BIOS;https://www.ycombinator.com/companies/1528;True;1,0;Oliver, Emil
+987;1527;Kudi;https://www.ycombinator.com/companies/1527;True;1,0;Pelumi, Yinka
+988;1526;Bulletin;https://www.ycombinator.com/companies/1526;True;0,0;Alana, Ali
+989;1524;AON3D;https://www.ycombinator.com/companies/1524;True;1,0;Kevin, Randeep, Andrew
+990;1523;Smart Alto;https://www.ycombinator.com/companies/1523;;1,0;Hassan, Wayne
+991;1521;Apozy;https://www.ycombinator.com/companies/1521;True;;
+992;1520;Reliance Health;https://www.ycombinator.com/companies/1520;True;1,0;Matthew, Femi, Opeyemi
+993;1519;Hogaru;https://www.ycombinator.com/companies/1519;True;;
+994;1518;FloydHub;https://www.ycombinator.com/companies/1518;True;;
+995;1517;Pilot;https://www.ycombinator.com/companies/1517;False;;
+996;1515;Bitrise;https://www.ycombinator.com/companies/1515;True;1,0;Viktor, Daniel, Barnabas
+997;1514;WaystoCap;https://www.ycombinator.com/companies/1514;True;1,0;Anis, Niama, Aziz
+998;1512;Bulk MRO Industrial Supply;https://www.ycombinator.com/companies/1512;True;1,0;Devang, Gaurang
+999;1510;Manycore;https://www.ycombinator.com/companies/1510;True;1,0;Marcus, Nicolas
